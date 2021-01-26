@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public float playerSpeed = 25f;
     private float gravityValue = -9.81f;
 
+
     private void Start()
     {
         controller = gameObject.AddComponent<CharacterController>();
@@ -32,4 +33,5 @@ public class PlayerController : MonoBehaviour
         playerVelocity.y += gravityValue * Time.deltaTime;
         controller.Move(playerVelocity * Time.deltaTime);
     }
+
 }
