@@ -307,9 +307,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 23.590616, y: 18.418304, z: -0.49479103}
+    m_Target: {x: 31.225183, y: 198.81587, z: -110.02792}
     speed: 2
-    m_Value: {x: 23.590616, y: 18.418304, z: -0.49479103}
+    m_Value: {x: 31.225183, y: 198.81587, z: -110.02792}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.34859988, y: -0.092582785, z: 0.034608625, w: 0.9320677}
     speed: 2
     m_Value: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
   m_Size:
@@ -364,9 +364,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 135.94739
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1.7201393
     m_SpeedNormalized: 0.85999966
@@ -452,12 +452,12 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\SCHOOL\MCM\3RD YEAR\2nd Term\EMC136P\ACTIVITIES\EXAM\EMC136P
     Prelim\UnityAIPrelim\Pacman
