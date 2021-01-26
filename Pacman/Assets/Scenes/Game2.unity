@@ -360,7 +360,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 21
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 3
 >>>>>>> parent of 825d470... colliders fix
@@ -461,6 +469,8 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &89788344
 GameObject:
   m_ObjectHideFlags: 0
@@ -508,6 +518,10 @@ MeshCollider:
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &93694243 stripped
 =======
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -806,7 +820,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 8
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 8
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 8
 >>>>>>> parent of 825d470... colliders fix
@@ -872,6 +894,8 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -886,6 +910,10 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 200264401}
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -1982,12 +2010,18 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &568047643 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1476922180672458593, guid: ceed78fe2726b7547bf3158940a10211, type: 3}
   m_PrefabInstance: {fileID: 568047642}
   m_PrefabAsset: {fileID: 0}
 =======
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -2263,9 +2297,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 =======
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -2603,6 +2643,8 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!64 &729607138
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2744,6 +2786,10 @@ Transform:
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 --- !u!1001 &786163083
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2815,6 +2861,8 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &853880536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2872,6 +2920,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 173b824ac3b0c8b40969c3e46e2f99ea, type: 3}
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -3013,7 +3065,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 4
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 4
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 4
 >>>>>>> parent of 825d470... colliders fix
@@ -3579,6 +3639,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
@@ -4096,7 +4162,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 6
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 6
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 6
 >>>>>>> parent of 825d470... colliders fix
@@ -4267,7 +4341,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 17
+=======
+  m_RootOrder: 0
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 0
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 0
 >>>>>>> parent of 825d470... colliders fix
@@ -4610,10 +4692,16 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1099183264}
   - {fileID: 437573768}
   - {fileID: 997349838}
 =======
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -5118,7 +5206,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 7
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 7
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 7
 >>>>>>> parent of 825d470... colliders fix
@@ -5393,7 +5489,15 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 5
+>>>>>>> parent of 825d470... colliders fix
+=======
+  m_RootOrder: 5
+>>>>>>> parent of 825d470... colliders fix
 =======
   m_RootOrder: 5
 >>>>>>> parent of 825d470... colliders fix
@@ -5721,6 +5825,12 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
@@ -5842,6 +5952,8 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1614249561
 Transform:
   m_ObjectHideFlags: 0
@@ -5864,11 +5976,17 @@ Transform:
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 --- !u!4 &1622637041 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: eb2d65967a9f09045891998351737fd4, type: 3}
   m_PrefabInstance: {fileID: 855007658}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5911,6 +6029,10 @@ Transform:
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 --- !u!1 &1634027657 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1476922180176534315, guid: ceed78fe2726b7547bf3158940a10211, type: 3}
@@ -5919,6 +6041,12 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
@@ -6657,6 +6785,12 @@ MeshCollider:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
@@ -7378,11 +7512,17 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2016983608 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1476922180672458593, guid: ceed78fe2726b7547bf3158940a10211, type: 3}
   m_PrefabInstance: {fileID: 2016983607}
 =======
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
 =======
@@ -7396,6 +7536,12 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 825d470... colliders fix
+=======
+>>>>>>> parent of 825d470... colliders fix
+=======
 >>>>>>> parent of 825d470... colliders fix
 =======
 >>>>>>> parent of 825d470... colliders fix
